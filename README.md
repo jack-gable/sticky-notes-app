@@ -1,4 +1,4 @@
-# ImagiGen AI
+# Sticky Notes
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
@@ -13,10 +13,6 @@
 ## Overview
 
 This fully React-based sticky notes app offers a seamless, interactive experience for organizing thoughts and ideas. Users can create, edit, and arrange notes in a dynamic and responsive interface. Designed for productivity, the app is lightweight and intuitive, perfect for personal or collaborative use.
-
-## Website
-
-[ImagiGen AI](https://movies-app-zeta-fawn.vercel.app/)
 
 ## Features
 
